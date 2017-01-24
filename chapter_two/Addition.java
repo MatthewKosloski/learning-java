@@ -1,5 +1,5 @@
 //********************************************************************
-// Addition.java (Chapter 2)
+// Addition.java
 //
 // Demonstrates the difference between the addition and string
 // concatenation operators.

@@ -1,5 +1,5 @@
 //********************************************************************
-// Facts.java (Chapter 2)
+// Facts.java
 //
 // Demonstrates the use of the string concatenation operator and the
 // automatic conversion of an integer to a string.

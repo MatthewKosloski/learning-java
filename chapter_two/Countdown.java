@@ -1,5 +1,5 @@
 //********************************************************************
-// Countdown.java (Chapter 2)
+// Countdown.java
 //
 // Demonstrates the difference between print and println.
 //********************************************************************
