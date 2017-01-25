@@ -14,5 +14,5 @@ A myriad of excercises from [Java Software Solutions (8th edition)](https://www.
 The following runs the program `Countdown` in the `chapter_two` folder and watches for changes.
 
 ```
-find . -name 'Countdown.java' | entr -c bash run.bash chapter_two Countdown
+bash java.bash chapter_two Countdown
 ```
