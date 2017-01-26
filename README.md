@@ -9,10 +9,30 @@ A myriad of excercises from [Java Software Solutions (8th edition)](https://www.
 - Make sure you have Java installed, check by running `java -version`
 - Install [entr](https://bitbucket.org/eradman/entr/) package with `brew install entr`
 
-## Script
+## Watching (automatic)
 
-The following runs the program `Countdown` in the `chapter_two` folder and watches for changes.
+The following runs the program `Countdown` in the `chapter_two` folder and watches for changes:
 
 ```
 bash java.bash chapter_two Countdown
+```
+
+Or, if you want to compile and run the Java program manually (in chapter directory):
+
+```
+javac Countdown.java && java Countdown
+```
+
+## Running Applets
+
+The following displays the `Einstein` applet in a new window:
+
+```
+appletviewer Einstein.html
+```
+
+To update the Applet, manually compile the Java code:
+
+```
+javac Einstein.java
 ```
