@@ -28,11 +28,5 @@ javac Countdown.java && java Countdown
 The following displays the `Einstein` applet in a new window:
 
 ```
-appletviewer Einstein.html
-```
-
-To update the Applet, manually compile the Java code:
-
-```
-javac Einstein.java
+bash applet.bash chapter_two Einstein
 ```
