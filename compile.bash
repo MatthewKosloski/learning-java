@@ -1,4 +1,4 @@
 #!/bin/bash  
-chapter=$1;
+path=$1;
 program=$2;          
-cd $chapter && javac $program.java && java $program;
+cd $path && javac $program.java && java $program;
