@@ -19,7 +19,7 @@ public class LeapYear {
 
 		do {
 			System.out.print("Enter in a year: ");
-			year = Integer.parseInt(scan.nextLine()); // can't repeat program if scan.nextInt()...
+			year = Integer.parseInt(scan.nextLine()); // can't repeat program if scan.nextInt?
 
 			if(year > GREGORIAN) {
 				if(year % 4 == 0 && year % 100 != 0 || year % 100 == 0 && year % 400 == 0) {
