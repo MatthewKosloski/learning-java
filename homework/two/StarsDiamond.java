@@ -1,7 +1,7 @@
 //********************************************************************
 // StarsDiamond.java
 //
-// Programming Project 6.7c on page 323.
+// Programming Project 6.7d on page 323.
 //********************************************************************
 
 public class StarsDiamond {
