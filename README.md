@@ -11,10 +11,10 @@ A myriad of excercises from [Java Software Solutions (8th edition)](https://www.
 
 ## Watching (automatic)
 
-The following runs the program `Countdown` in the `chapter/two` folder and watches for changes:
+The following runs the program `Countdown` in the `chapter/2` folder and watches for changes:
 
 ```
-bash java.bash chapter/two Countdown
+bash java.bash chapter/2 Countdown
 ```
 
 Or, if you want to compile and run the Java program manually (in chapter directory):
@@ -28,5 +28,5 @@ javac Countdown.java && java Countdown
 The following displays the `Einstein` applet in a new window:
 
 ```
-bash applet.bash chapter/two Einstein
+bash applet.bash chapter/2 Einstein
 ```
