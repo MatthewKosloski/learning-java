@@ -40,6 +40,7 @@ public class DirectionPanel extends JPanel {
 	// Draws the image in the current location
 	public void paintComponent(Graphics page) {
 		super.paintComponent(page);
+		// this refers to DirectionPanel (the graphics context on which the image will be drawn)
 		currentImage.paintIcon(this, page, x, y);
 	}
 
