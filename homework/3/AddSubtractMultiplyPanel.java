@@ -13,7 +13,7 @@ public class AddSubtractMultiplyPanel extends JPanel {
 	private JButton addBtn, subtractBtn, multiplyBtn;
 	private JPanel buttonPanel, textPanel;
 	private JLabel currentValue;
-
+ 
 	private int count = 1;
 
 	private final Color BACKGROUND_COLOR = new Color(60, 60, 60);
