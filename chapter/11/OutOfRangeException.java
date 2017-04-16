@@ -1,0 +1,15 @@
+//********************************************************************
+// OutOfRangeException.java
+//
+// Represents an exceptional condition in which a value is out of
+// some particular range.
+//********************************************************************
+
+public class OutOfRangeException extends Exception {
+
+	// Sets up the exception object with a message
+	OutOfRangeException(String message) {
+		super(message);
+	}
+
+}
